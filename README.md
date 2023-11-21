@@ -14,8 +14,11 @@ Installation
 To use this tool, ensure you have Python installed on your system along with the following libraries:
 ```
 bash
-Copy code
-pip install yfinance matplotlib pandas
+
+pip install yfinance
+pip install matplotlib
+pip install pandas
+
 ```
 Comparative Analysis:
 
