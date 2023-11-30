@@ -1,4 +1,10 @@
 /**
+ * This list contains all methods for using the yfinance library from Yahoo. 
+ * Please use responsible, If your IP gets flag for unusual activities, thats on you!
+ * not on us. Read the rest of the documentation
+ */
+
+/**
  * Retrieves the current price of the stock.
  */
 get_price()
